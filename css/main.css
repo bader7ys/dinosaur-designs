@@ -17,7 +17,11 @@ nav {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: .75rem;
+  font-size: .8rem;
+}
+
+.first {
+  font-size: 1rem;
 }
 
 img {

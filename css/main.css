@@ -29,4 +29,6 @@ a:hover {
   background-color: #b42885;
 }
 
-font-family: 'Patua One', cursive;
+h1, h2, nav {
+  font-family: 'Patua One', cursive;
+}
